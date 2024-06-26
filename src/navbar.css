@@ -1,0 +1,14 @@
+/* src/CenteredText.css */
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20%; /* Full height of the viewport */
+    background-color: DarkCyan;
+  }
+  
+  .centered-text {
+    text-align: center;
+    background-color: DarkCyan;
+  }
+  

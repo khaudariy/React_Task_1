@@ -1,0 +1,43 @@
+.div-main-button {
+
+    /* background-color: powderblue; */
+    border-style: solid;
+    border-color: powderblue;
+    border-width: 5px;
+    height: 60%;
+    width: 70%;
+    margin-left: 25px;
+    margin-top: 25px;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+
+    /* margin: auto; */
+    /* padding: 5px; */
+  }
+  .button-tag{
+    background-color: DarkCyan;
+    border-radius: 12px;
+    padding: 13px 30px;
+    transition-duration: 0.4s;
+    margin-left: 15px;
+    margin-top: 7px;
+  }
+  .button-tag:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
+  .button-tag-last{
+    background-color: DarkCyan;
+    border-radius: 12px;
+    padding: 13px 30px;
+    transition-duration: 0.4s;
+    margin-left: 85px;
+    margin-top: 7px;
+
+  }
+  .button-tag-last:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
