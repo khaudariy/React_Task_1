@@ -3,8 +3,10 @@ import Button from './Button';
 export default function ButtonBorder () {
 
     return( 
-     <div >
+     <div className="div-main-button">
 
-<Button/>
+<Button name="first"/>
+<Button name="Second"/>
+<Button name="Third"/>
     </div>);
 }

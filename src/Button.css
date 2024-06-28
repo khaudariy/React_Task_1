@@ -23,6 +23,7 @@
     transition-duration: 0.4s;
     margin-left: 15px;
     margin-top: 7px;
+    cursor: pointer;
   }
   .button-tag:hover {
     background-color: #04AA6D; /* Green */
@@ -35,9 +36,11 @@
     transition-duration: 0.4s;
     margin-left: 85px;
     margin-top: 7px;
+    cursor: pointer;
 
   }
   .button-tag-last:hover {
     background-color: #04AA6D; /* Green */
     color: white;
+    
   }

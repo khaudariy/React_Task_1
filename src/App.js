@@ -10,12 +10,9 @@ function App() {
     
     <Heeader/>
     <ButtonBorder />
-    <POsts />
-    <POsts />
-    <POsts />
-    <POsts />
-    <POsts />
-    <POsts />
+    <POsts name = "Hossam1" article = "ARC1"/>
+    <POsts name = "Hossam2" article = "ARC2"/>
+    <POsts name = "Hossam3" article = "ARC3"/>
 
   </>
   );
