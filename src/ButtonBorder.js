@@ -8,5 +8,6 @@ export default function ButtonBorder () {
 <Button name="first"/>
 <Button name="Second"/>
 <Button name="Third"/>
+<Button />
     </div>);
 }
